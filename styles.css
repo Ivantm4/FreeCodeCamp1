@@ -1,0 +1,30 @@
+body {
+    width: 100%;
+    margin: 20;
+    background-color: #1b1b32;
+    color: #f5f6f7;
+    font-family: calabri;
+    font-size: 15px;
+}
+h1, p {
+    margin: 1em auto;
+    text-align: center;
+}
+form {
+    width: 100%;
+    max-width: 50px;
+    min-width: 300px;
+    margin: 5px auto;
+    padding-left:20px;
+    padding-bottom: 1em;
+} 
+input[type="submit"] {
+    display: block;
+    width: 20%;
+    margin: 1em auto;
+    height: 2em;
+    font-size: 1.1rem;
+    background-color: #3b3b4f;
+    border-color: white;
+    min-width:200px;
+}
